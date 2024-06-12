@@ -3,10 +3,9 @@
 - SQL
 - Power BI
 ## Description:
-- Developed an Auto ML model with a 99.04% accurate random forest classifier to predict employee attrition, using historical data.
-- Created and managed databases in BigQuery for over 15,000 employee records on Google Cloud Platform, and connected the data to a Google Colab notebook for model building.
-- Built an interactive dashboard in Looker Studio featuring 7 key metrics and 2 interactive graphs, and visualized feature importance for 10
-critical variables.
+- Constructed a database and crafted SQL queries to address analytical inquiries, connecting the database to Power BI to develop a dashboard aimed at identifying individuals eligible for a company's healthy bonus program.
+- Utilized data from a comprehensive pool of over 700 employees to inform dashboard design and evaluation.
+- Designed a Power BI dashboard featuring 3 key metrics and an array of interactive visualizations, including 4 pie charts, 2 line charts, 1 scatter plot, and a detailed table, facilitating the assessment of relationships across more than 10 variables.
 ## Preview:
 [SQL Code](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Employee%20Incentives%20and%20Wellness%20Analysis%20%26%20Dashboard/HR%20Analtyics.sql)
 
