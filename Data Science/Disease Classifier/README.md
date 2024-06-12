@@ -17,3 +17,12 @@
 optimizer and Sparse Categorical Crossentropy loss function.
 - Enhanced model performance through preprocessing techniques and plotted accuracy and loss curves, demonstrating the model's effectiveness and robustness.
 ## Preview:
+- Labeled Images:
+  
+![Labeled Image Examples](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Disease%20Classifier/tomato.png)
+
+- [Training Notebook](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Disease%20Classifier/training/Training.ipynb)
+
+- Model Test:
+
+![Model Test](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Disease%20Classifier/predictions.png)
