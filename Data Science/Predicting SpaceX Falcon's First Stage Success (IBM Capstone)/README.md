@@ -13,9 +13,9 @@
 - SQL
 - Microsoft PowerPoint
 ## Description:
-- Trained a TensorFlow model on over 4,000 images of tomato plant leaves across 3 classes (healthy, early blight, late blight), achieving 97.66% accuracy on the test dataset.
-- Implemented a Convolutional Neural Network (CNN) with layers for resizing, normalization (0 to 1), and data augmentation, using the Adam optimizer and Sparse Categorical Crossentropy loss function.
-- Enhanced model performance through preprocessing techniques and plotted accuracy and loss curves, demonstrating the model's effectiveness and robustness.
+- Developed a predictive model to determine the success of Falcon 9 first stage landings, utilizing over 1,000 data points collected via SpaceX Rest API and web scraping from Wikipedia, and performed extensive data wrangling, exploratory data analysis (EDA), interactive visual analytics, and predictive analysis.
+- Conducted EDA using SQL and visualization tools, including 6 different graphs, to identify key factors influencing rocket landing success and correlations between 10+ variables.
+- Integrated Folium and Plotly Dash for interactive visual analytics, and implemented and fine tuned 5 classification models achieving a predictive accuracy of 83% for landing success rates.
 ## Preview:
 - 1.0 Data Collection:
   - [API Notebook](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Predicting%20SpaceX%20Falcon's%20First%20Stage%20Success%20(IBM%20Capstone)/1.0%20Data%20Collection/1.1%20Data%20Collection%20-%20API.ipynb)
