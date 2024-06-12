@@ -14,8 +14,8 @@
 
 - [Tableau Dashboard 1](https://public.tableau.com/app/profile/nilesh.domah4236/viz/WorldBankAnalytics_17156157559640/Dashboard2):
 
-- ![Tableau Dashboard 1](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/World%20Bank%20Analytics%20%26%20Dashboard/Dashboard%201.png)
+![Tableau Dashboard 1](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/World%20Bank%20Analytics%20%26%20Dashboard/Dashboard%201.png)
 
 - [Tableau Dashboard 2](https://public.tableau.com/app/profile/nilesh.domah4236/viz/WorldBankAnalytics_17156157559640/Dashboard2):
 
-- ![Tableau Dashboard 2](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/World%20Bank%20Analytics%20%26%20Dashboard/Dashboard%202.png)
+![Tableau Dashboard 2](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/World%20Bank%20Analytics%20%26%20Dashboard/Dashboard%202.png)
