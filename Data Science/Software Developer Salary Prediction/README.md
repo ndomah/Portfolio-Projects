@@ -17,10 +17,10 @@
 - Developed a Streamlit web app with 2 interactive pages: 1 for salary prediction based on user input, and another featuring visual data exploration with pie, bar, and line charts to analyze developer demographics and salary trends for over 5 variables.
 ## Preview:
 - [Salary Prediction Notebook](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/Salary%20Prediction.ipynb)
-- [Streamlit Predict Page](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/predict_page.py)
+- [Streamlit Predict Page Code](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/predict_page.py)
 
-- ![Streamlit Predict Page](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/Streamlit%20Predict%20Page.png)
+![Streamlit Predict Page](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/Streamlit%20Predict%20Page.png)
 
 - [Streamlit Explore Page Code](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/explore_page.py)
 
-- ![Streamlit Explore Page](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/Streamlit%20Explore%20Page.png)
+![Streamlit Explore Page](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Science/Software%20Developer%20Salary%20Prediction/Streamlit%20Explore%20Page.png)
