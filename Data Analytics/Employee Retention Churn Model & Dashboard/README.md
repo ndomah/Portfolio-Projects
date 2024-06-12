@@ -18,6 +18,6 @@
 
 - [Google Colab Notebook](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Employee%20Retention%20Churn%20Model%20%26%20Dashboard/Pilot_Analysis_Employee_Churn.ipynb)
 
-- Looker Studio Dashboard
+- Looker Studio Dashboard:
 
 ![Looker Studio Dashboard](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Employee%20Retention%20Churn%20Model%20%26%20Dashboard/dashboard.png)
