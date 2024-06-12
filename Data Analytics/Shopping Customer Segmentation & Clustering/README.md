@@ -13,3 +13,8 @@
 - Employed clustering algorithms to identify distinct customer segments, ultimately establishing five clusters based on spending score and annual income for both male and female demographics.
 ## Preview:
 
+- ![Jupyter Notebook](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Shopping%20Customer%20Segmentation%20%26%20Clustering/Shopping%20Customer%20Segmentation.ipynb):
+
+- Final Clusters:
+
+[Clusters](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/Shopping%20Customer%20Segmentation%20%26%20Clustering/clustering_bivaraiate.png)
